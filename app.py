@@ -1,1 +1,2 @@
-"print Hello!"
+def disp:
+  "print Hello!"
