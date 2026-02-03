@@ -1,2 +1,2 @@
-def disp:
+def disp():
   "print Hello!"
